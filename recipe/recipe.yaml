@@ -1,5 +1,5 @@
 context:
-  version: "0.4.4"
+  version: "0.4.6"
 
 package:
   name: datui
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/derekwisong/datui/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 98cb55b978b4309e0b35719581366df41abaa340b2747881def34ee6d1aeecec
+  sha256: 27a7a05585474880e7a474c8aa9e378e7559c906f8647264b593d6920de89213
 
 build:
   number: 0
